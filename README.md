@@ -1,5 +1,4 @@
-# dailycodingproblem-4
-Daily Coding Problem 4
+# Daily Coding Problem 4
 
 This problem was asked by Stripe.
 
